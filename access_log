@@ -1,0 +1,9 @@
+::1 - - [24/Oct/2019:10:20:05 +0530] "GET /phpMyAdmin/server_databases.php?server=1 HTTP/1.1" 200 12762
+::1 - - [24/Oct/2019:10:49:06 +0530] "GET /phpMyAdmin/phpmyadmin.css.php?nocache=6281794502ltr&server=1 HTTP/1.1" 200 20812
+::1 - - [24/Oct/2019:10:49:06 +0530] "POST /phpMyAdmin/ajax.php HTTP/1.1" 200 1419
+::1 - - [24/Oct/2019:10:49:06 +0530] "POST /phpMyAdmin/navigation.php?ajax_request=1 HTTP/1.1" 200 2082
+::1 - - [24/Oct/2019:10:49:06 +0530] "POST /phpMyAdmin/ajax.php HTTP/1.1" 200 1516
+::1 - - [24/Oct/2019:10:49:07 +0530] "POST /phpMyAdmin/ajax.php HTTP/1.1" 200 1411
+::1 - - [24/Oct/2019:11:13:50 +0530] "POST /phpMyAdmin/index.php HTTP/1.1" 200 67
+::1 - - [24/Oct/2019:11:13:51 +0530] "GET /phpMyAdmin/server_databases.php?server=1 HTTP/1.1" 200 3467
+::1 - - [24/Oct/2019:11:13:51 +0530] "GET /phpMyAdmin/phpmyadmin.css.php?nocache=4709901290ltr&server=1 HTTP/1.1" 200 20812

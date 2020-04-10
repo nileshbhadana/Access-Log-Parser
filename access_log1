@@ -1,0 +1,21 @@
+::1 - - [24/Oct/2019:09:44:47 +0530] "GET /server-status HTTP/1.1" 404 196
+::1 - - [24/Oct/2019:09:44:47 +0530] "GET /favicon.ico HTTP/1.1" 404 196
+::1 - - [24/Oct/2019:09:44:50 +0530] "GET / HTTP/1.1" 200 45
+::1 - - [24/Oct/2019:09:45:08 +0530] "-" 408 -
+::1 - - [24/Oct/2019:10:02:43 +0530] "GET / HTTP/1.1" 403 199
+::1 - - [24/Oct/2019:10:02:45 +0530] "GET / HTTP/1.1" 403 199
+::1 - - [24/Oct/2019:10:20:55 +0530] "GET /phpMyAdmin HTTP/1.1" 301 236
+::1 - - [24/Oct/2019:10:20:55 +0530] "GET /phpMyAdmin HTTP/1.1" 200 3484
+::1 - - [24/Oct/2019:10:20:55 +0530] "GET /phpMyAdmin/themes/pmahomme/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [24/Oct/2019:10:20:55 +0530] "GET /phpMyAdmin/themes/pmahomme/jquery/jquery-migrate.js?v=4.9.1 HTTP/1.1" 200 19092
+::1 - - [24/Oct/2019:10:20:55 +0530] "GET /phpMyAdmin/index.php HTTP/1.1" 200 67
+::1 - - [24/Oct/2019:10:40:55 +0530] "GET /phpMyAdmin HTTP/1.1" 301 236
+::1 - - [24/Oct/2019:10:42:55 +0530] "GET /phpMyAdmin HTTP/1.1" 200 3484
+::1 - - [24/Oct/2019:10:45:55 +0530] "GET /phpMyAdmin/themes/pmahomme/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [24/Oct/2019:15:20:55 +0530] "GET /phpMyAdmin/themes/pmahomme/jquery/jquery-migrate.js?v=4.9.1 HTTP/1.1" 200 19092
+::1 - - [24/Oct/2019:16:20:55 +0530] "GET /phpMyAdmin/index.php HTTP/1.1" 200 67
+::1 - - [25/Oct/2019:07:20:55 +0530] "GET /phpMyAdmin HTTP/1.1" 301 236
+::1 - - [25/Oct/2019:08:20:55 +0530] "GET /phpMyAdmin HTTP/1.1" 200 3484
+::1 - - [25/Oct/2019:09:20:55 +0530] "GET /phpMyAdmin/themes/pmahomme/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [25/Oct/2019:10:20:55 +0530] "GET /phpMyAdmin/themes/pmahomme/jquery/jquery-migrate.js?v=4.9.1 HTTP/1.1" 200 19092
+::1 - - [25/Oct/2019:10:20:55 +0530] "GET /phpMyAdmin/index.php HTTP/1.1" 200 67
