@@ -12,8 +12,10 @@ def apache_output(line):
     t2=datetime.strptime(time2,"%H:%M:%S")
     if t1>t2 and "/phpMyAdmin" in split_line[6]:
         print(line)
-        bytes.append(int(split_line[-1]))
-
+        try:
+            bytes.append(int(split_line[-1]))
+        except:
+            pass   
 
 def final_report(logfile):
     for line in logfile:
